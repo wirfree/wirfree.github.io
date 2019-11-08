@@ -11,7 +11,7 @@ categories: big data
 
 ## 工具
 
-- hadoop 3.1.0 + apache-hadoop-3.1.0-winutils [下载链接](https://1drv.ms/u/s!AoE0b6CF0Lbd1UvQXe_bMSv-sJUX?e=XuayeM)
+- hadoop 3.1.0 + apache-hadoop-3.1.0-winutils [下载链接](https://1drv.ms/u/s!AoE0b6CF0Lbd1UvQXe_bMSv-sJUX?e=XuayeM) [下载链接2](https://pan.baidu.com/s/1Kmkzzhuu-dr0mov9UiOYdA)
 - [Java 1.8 JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Intellij](https://www.jetbrains.com/idea/download/#section=windows)
 
