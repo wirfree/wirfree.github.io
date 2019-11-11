@@ -3,6 +3,7 @@ layout: post
 title:  "准备hadoop的开发环境"
 date:   2019-11-08 16:15:00 +0800
 categories: big data
+permalink: /hadoop-dev-env
 ---
 
 文章主要介绍在Windows配置Hadoop的开发环境，一般我们的开发环境都是使用Windows或者MacBook，大家比较多的都使用Windows，毕竟MacBook好贵，一般咱们有iOS开发需求的才去买一台吧~
